@@ -1,0 +1,6 @@
+framework module NFAZL {
+  umbrella header "NFAZL-umbrella.h"
+
+  export *
+  module * { export * }
+}
